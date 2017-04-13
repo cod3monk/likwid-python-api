@@ -1,6 +1,8 @@
 # likwid-python-api
 Python interface for the C API of LIKWID (https://github.com/RRZE-HPC/likwid)
 
+[![Build Status](https://travis-ci.org/cod3monk/likwid-python-api.svg?branch=feature_travis_and_pypi)](travis)
+
 # Installation
 I added a setup.py script for the installation. It builds the C module and copies it to the proper destination.
 ```
